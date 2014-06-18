@@ -19,6 +19,14 @@ The demo was developed for the iPhone using the ArcGIS Runtime SDK for iOS 10.2.
 
 [New to Github? Get started here.](https://github.com/)
 
+
+MapKit 2 ArcGIS is a project that migrates iOS applications using MapKit to the ArcGIS Runtime SDK for iOS without any code changes. The steps to migrate any project are simple:
+
+Remove the MapKit.framework library.
+Add the ArcGIS Runtime SDK for iOS framework to the project.
+Download the MapKit 2 ArcGIS project and add the folder to your project.
+Re-compile!
+
 ## Requirements
 
 * xCode 4 and above
